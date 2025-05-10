@@ -20,8 +20,8 @@ Hola! Mi nombre es Llorenç, matemático y apasionado por la ingeniería de soft
 
 </details>
 
-- 🔭 Actualmente estoy trabajando de prácticas en NTT Data como Desarrollador Backend junior.
-- 🌱 Estoy en último año de Matemáticas + realizando varios cursos sobre **Java** y **SQL**.
+- 🔭 Actualmente estoy trabajando de prácticas en NTT Data como Data Scientist.
+- 🌱 Graduado en la carrera de Matemáticas + realizando varios cursos sobre **Tensorflow** y **ML/DL**.
 - 📫 llorenscapo2001@gmail.com
 
 ---
